@@ -7,3 +7,4 @@ I have inserted a new line of text
 
 the updated text
 This file will be updated using svn
+A comment line has been added
